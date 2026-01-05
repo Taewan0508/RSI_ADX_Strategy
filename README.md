@@ -31,6 +31,7 @@ Across all tested equities (TSLA, NVDA, IREN):
 The ADX filter reduced total exposure and trade count but eliminated profitable trades along with unprofitable ones, leading to lower risk-adjusted returns.
 
 **Why the ADX Filter Reduced Sharpe**
+
 **1. ADX is a Lagging Measure of Trend Strength**
 
 ADX rises after trends are already established.
